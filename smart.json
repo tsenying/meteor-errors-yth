@@ -1,5 +1,5 @@
 {
-  "name": "errors",
+  "name": "meteor-errors-yth",
   "description": "A pattern to display application errors to the user",
   "homepage": "https://github.com/tsenying/meteor-errors-yth",
   "author": "TsenYing Hong",
